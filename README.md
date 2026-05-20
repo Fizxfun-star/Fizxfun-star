@@ -1,13 +1,22 @@
 # 💫 About Me:
 Hi 👋, I'm Faiza Farooque
+
 A CS Student | Exploring Cybersecurity, AI & Storytelling from India
+
 🔭 I’m currently working on Building my skills in cybersecurity and tech
+
 🌱 I’m currently learning Cybersecurity,Cycber crime, and exploring AI
+
 🤝 I’m looking for help with Cybersecurity, Python, and beginner-friendly tech projects
+
 👯 I’m looking to collaborate on Beginner-friendly projects and learning opportunities
+
 💬 Ask me about Stories, cybercrime, tech, and random curiosity
+
 📫 How to reach me farooquefaiza37@gmail.com
+
 ⚡ Fun fact: A curious multitasker learning one thing at a time 😭
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ faiza-farooque-b82507410) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizafarooque2206@gmail.com) 
