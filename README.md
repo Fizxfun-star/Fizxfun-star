@@ -40,4 +40,17 @@ A CS Student | Exploring Cybersecurity, AI & Storytelling from India
 ---
 [![](https://komarev.com/ghpvc/?username=Fizxfun-star&icon=1&color=3)](https://visitcount.itsvg.in)
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Fizxfun-star/Fizxfun-star/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Fizxfun-star/Fizxfun-star/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/Fizxfun-star/Fizxfun-star/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
